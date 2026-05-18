@@ -4,10 +4,10 @@ cask "flux-monitor" do
 
   url "https://github.com/chentao1006/FluxMonitor/releases/download/v#{version}/FluxMonitor.dmg"
   name "Flux Monitor"
-  desc "Mac server monitoring and management panel"
+  desc "Server monitoring and management panel"
   homepage "https://github.com/chentao1006/FluxMonitor"
 
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
 
   app "Flux Monitor.app"
 
