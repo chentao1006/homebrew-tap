@@ -9,10 +9,8 @@ on:
 jobs:
   test-bot:
     runs-on: macos-latest
-
     steps:
       - name: Set up Homebrew
-        uses: Homebrew/actions/setup-homebrew@main
-
-      - name: Run brew test-bot
-        run: brew test-bot --only-tap-syntax
+        uses: Homebrew/actions/setup-homebrew@master
+      - name: Test tap
+        run: brew test-bot --only-cleanup-before --only-setup --only-tap-syntax
