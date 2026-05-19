@@ -12,13 +12,7 @@ jobs:
 
     steps:
       - name: Set up Homebrew
-        uses: Homebrew/actions/setup-homebrew@master
+        uses: Homebrew/actions/setup-homebrew@main
 
-      - name: Cleanup
-        run: brew test-bot --only-cleanup-before
-
-      - name: Setup
-        run: brew test-bot --only-setup
-
-      - name: Tap syntax
+      - name: Run brew test-bot
         run: brew test-bot --only-tap-syntax
