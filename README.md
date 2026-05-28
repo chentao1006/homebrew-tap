@@ -1,28 +1,24 @@
-# Homebrew Tap for Flux Monitor
+# Homebrew Tap
 
-Install Flux Monitor:
+Shared Homebrew tap for apps by chentao1006.
 
-```sh
-brew install --cask chentao1006/tap/flux-monitor
-```
+## Available Casks
 
-Or tap the repository first:
-
-```sh
-brew tap chentao1006/tap
-brew install --cask flux-monitor
-```
-
-
-# Homebrew Tap for Quitty
-
-Install Quitty:
+### Quitty
 
 ```sh
 brew install --cask chentao1006/tap/quitty
 ```
 
-Or tap the repository first:
+### Flux Monitor
+
+```sh
+brew install --cask chentao1006/tap/flux-monitor
+```
+
+## Tap First
+
+You can also tap the repository first, then install casks by token:
 
 ```sh
 brew tap chentao1006/tap
