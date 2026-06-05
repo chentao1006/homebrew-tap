@@ -4,6 +4,12 @@ Shared Homebrew tap for apps by chentao1006.
 
 ## Available Casks
 
+### Sidey
+
+```sh
+brew install --cask chentao1006/tap/sidey
+```
+
 ### Quitty
 
 ```sh
@@ -22,5 +28,5 @@ You can also tap the repository first, then install casks by token:
 
 ```sh
 brew tap chentao1006/tap
-brew install --cask quitty
+brew install --cask sidey
 ```
