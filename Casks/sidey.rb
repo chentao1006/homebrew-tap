@@ -1,8 +1,8 @@
 cask "sidey" do
-  version "1.2.6"
-  sha256 "2d18b3547852f38ed17b69736bb3a78121c3936cdd6a7bbf5e02c93cc3a81593"
+  version "1.2.7"
+  sha256 "854748c0c2cffcf7177e1731fca400dd1dd525f66d0bfbd8ca7d63f37b3e2c30"
 
-  url "https://github.com/chentao1006/sidey/releases/download/v1.2.6/Sidey.dmg"
+  url "https://github.com/chentao1006/sidey/releases/download/v1.2.7/Sidey.dmg"
   name "Sidey"
   desc "Context-aware AI assistant"
   homepage "https://github.com/chentao1006/sidey"
