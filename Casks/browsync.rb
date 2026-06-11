@@ -1,6 +1,6 @@
 cask "browsync" do
   version "1.0.1"
-  sha256 "51bd303174b08997d36a82657e3fae92ef4c64b686261d385368c596f45abe3e"
+  sha256 "3d533b286de39c5cb63e3ab8b9803a0cab15297ef9d2c5847faeb97179f41bff"
 
   url "https://github.com/chentao1006/browsync/releases/download/v1.0.1/BrowSync.dmg"
   name "BrowSync"
