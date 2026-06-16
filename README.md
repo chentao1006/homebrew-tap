@@ -22,12 +22,6 @@ brew install --cask chentao1006/tap/quitty
 brew install --cask chentao1006/tap/flux-monitor
 ```
 
-### BrowSync
-
-```sh
-brew install --cask chentao1006/tap/browsync
-```
-
 ## Tap First
 
 You can also tap the repository first, then install casks by token:
