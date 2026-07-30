@@ -1,6 +1,6 @@
 cask "sidey" do
   version "1.3.0"
-  sha256 "61a987afc30c964248fd3c7ed519be770d5506c58bff9b1fa0613184abe47119"
+  sha256 "b8bd6c834b6a208629cbeff6560a47474debe7a3526d700024eeca8404cd5edf"
 
   url "https://github.com/chentao1006/sidey/releases/download/v1.3.0/Sidey.dmg"
   name "Sidey"
