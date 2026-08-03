@@ -1,8 +1,8 @@
 cask "quitty" do
-  version "1.1.16"
-  sha256 "a798b971d11badcf95f79c2656f158fb10a3fc183a47ccc006913ad3859e492b"
+  version "1.1.17"
+  sha256 "c86558d2fdd55ac754b17c0e2517ae6ebb9489bcf2073e13d1bfa91eee80c77a"
 
-  url "https://github.com/chentao1006/quitty/releases/download/v1.1.16/Quitty.dmg"
+  url "https://github.com/chentao1006/quitty/releases/download/v1.1.17/Quitty.dmg"
   name "Quitty"
   desc "Quit apps automatically when their last window is closed"
   homepage "https://github.com/chentao1006/quitty"
