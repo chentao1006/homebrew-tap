@@ -1,8 +1,8 @@
 cask "browsync" do
-  version "1.1.20"
-  sha256 "4332d42b0493710755329c95b9f82c9522d1f760c47aaff18792e69c1f1926ca"
+  version "1.1.21"
+  sha256 "606a21838a8f887b03f178503e413b2cd3efda554f91bdc0aa878715d8c673c9"
 
-  url "https://github.com/chentao1006/browsync/releases/download/v1.1.20/BrowSync.dmg"
+  url "https://github.com/chentao1006/browsync/releases/download/v1.1.21/BrowSync.dmg"
   name "BrowSync"
   desc "Unified browsing experience across multiple browsers"
   homepage "https://github.com/chentao1006/browsync"
