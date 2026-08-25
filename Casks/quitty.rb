@@ -1,6 +1,6 @@
 cask "quitty" do
   version "1.1.18"
-  sha256 "22a23330b557705480122c95e907ece3d126085f03ea182118b778524434d09c"
+  sha256 "85cbf0306a1e024b352f09b7651f38a1267fee09867114d2f57553a104391e91"
 
   url "https://github.com/chentao1006/quitty/releases/download/v1.1.18/Quitty.dmg"
   name "Quitty"
