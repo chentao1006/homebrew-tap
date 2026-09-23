@@ -1,6 +1,6 @@
 cask "flux-monitor" do
   version "1.3.16"
-  sha256 "1fd391c6af4099272c40f4062bdd8425e03a2a50606e82c2bef837aa5c216ea4"
+  sha256 "8f96915b9a59156c6d76a8c352f66d9e70d0f7d3ebbb437a7752ab12dcfb052e"
 
   url "https://github.com/chentao1006/FluxMonitor/releases/download/v1.3.16/FluxMonitor.dmg"
   name "Flux Monitor"
