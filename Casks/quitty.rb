@@ -1,13 +1,13 @@
 cask "quitty" do
-  version "1.1.19"
-  sha256 "539e7be79862f252d081372de9b89f69e4eb102f0add082626cc1a242cb4a6df"
+  version "1.1.20"
+  sha256 "38751ed9c411377de725894611c4b39202486d340133bd8a7e0b5118097fd52c"
 
-  url "https://github.com/chentao1006/quitty/releases/download/v1.1.19/Quitty.dmg"
+  url "https://github.com/chentao1006/quitty/releases/download/v1.1.20/Quitty.dmg"
   name "Quitty"
   desc "Quit apps automatically when their last window is closed"
   homepage "https://github.com/chentao1006/quitty"
 
-  depends_on macos: :big_sur
+  depends_on macos: :monterey
 
   app "Quitty.app"
 
