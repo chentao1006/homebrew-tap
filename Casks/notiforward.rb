@@ -1,8 +1,8 @@
 cask "notiforward" do
-  version "1.1.1"
-  sha256 "2edc03accf39147ed8bfd0da249bd31230d964a663c659d8365c8fa95034dc9b"
+  version "1.2.0"
+  sha256 "bba344fd7b8002408d6a48d9a3370266686b4e4fbc06a1fee49aef3ce97b452e"
 
-  url "https://github.com/chentao1006/NotiForward/releases/download/v1.1.1/NotiForward.dmg"
+  url "https://github.com/chentao1006/NotiForward/releases/download/v1.2.0/NotiForward.dmg"
   name "NotiForward"
   desc "Forward selected notifications to your iPhone through Bark"
   homepage "https://notiforward.ct106.com/"
