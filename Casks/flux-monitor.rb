@@ -1,8 +1,8 @@
 cask "flux-monitor" do
-  version "1.4.2"
-  sha256 "290e32dbad223f1bcbb55865e50b2effc747a0223b4af1cb532d525391388913"
+  version "1.4.3"
+  sha256 "558cf128a277d1858813d69e336b2ab523a21d82564f0169053f285d80e5cae9"
 
-  url "https://github.com/chentao1006/FluxMonitor/releases/download/v1.4.2/FluxMonitor.dmg"
+  url "https://github.com/chentao1006/FluxMonitor/releases/download/v1.4.3/FluxMonitor.dmg"
   name "Flux Monitor"
   desc "Server monitoring and management panel"
   homepage "https://github.com/chentao1006/FluxMonitor"
